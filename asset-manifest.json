@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/buyer/static/css/main.88eb1183.chunk.css",
-    "main.js": "/buyer/static/js/main.250eef80.chunk.js",
-    "main.js.map": "/buyer/static/js/main.250eef80.chunk.js.map",
+    "main.css": "/buyer/static/css/main.e2b2217b.chunk.css",
+    "main.js": "/buyer/static/js/main.35bd7f17.chunk.js",
+    "main.js.map": "/buyer/static/js/main.35bd7f17.chunk.js.map",
     "runtime-main.js": "/buyer/static/js/runtime-main.e06afe20.js",
     "runtime-main.js.map": "/buyer/static/js/runtime-main.e06afe20.js.map",
     "static/css/2.b5f9dda7.chunk.css": "/buyer/static/css/2.b5f9dda7.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.2cc18159.chunk.js.map": "/buyer/static/js/3.2cc18159.chunk.js.map",
     "index.html": "/buyer/index.html",
     "static/css/2.b5f9dda7.chunk.css.map": "/buyer/static/css/2.b5f9dda7.chunk.css.map",
-    "static/css/main.88eb1183.chunk.css.map": "/buyer/static/css/main.88eb1183.chunk.css.map",
+    "static/css/main.e2b2217b.chunk.css.map": "/buyer/static/css/main.e2b2217b.chunk.css.map",
     "static/js/2.577db758.chunk.js.LICENSE.txt": "/buyer/static/js/2.577db758.chunk.js.LICENSE.txt",
     "static/media/deil-logo.d96e8767.png": "/buyer/static/media/deil-logo.d96e8767.png",
     "static/media/saltoris.85ee1f2d.png": "/buyer/static/media/saltoris.85ee1f2d.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.e06afe20.js",
     "static/css/2.b5f9dda7.chunk.css",
     "static/js/2.577db758.chunk.js",
-    "static/css/main.88eb1183.chunk.css",
-    "static/js/main.250eef80.chunk.js"
+    "static/css/main.e2b2217b.chunk.css",
+    "static/js/main.35bd7f17.chunk.js"
   ]
 }
