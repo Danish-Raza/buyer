@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/buyer/static/css/main.e2b2217b.chunk.css",
-    "main.js": "/buyer/static/js/main.35bd7f17.chunk.js",
-    "main.js.map": "/buyer/static/js/main.35bd7f17.chunk.js.map",
-    "runtime-main.js": "/buyer/static/js/runtime-main.e06afe20.js",
-    "runtime-main.js.map": "/buyer/static/js/runtime-main.e06afe20.js.map",
+    "main.js": "/buyer/static/js/main.e885f0a6.chunk.js",
+    "main.js.map": "/buyer/static/js/main.e885f0a6.chunk.js.map",
+    "runtime-main.js": "/buyer/static/js/runtime-main.848eb2bc.js",
+    "runtime-main.js.map": "/buyer/static/js/runtime-main.848eb2bc.js.map",
     "static/css/2.b5f9dda7.chunk.css": "/buyer/static/css/2.b5f9dda7.chunk.css",
-    "static/js/2.577db758.chunk.js": "/buyer/static/js/2.577db758.chunk.js",
-    "static/js/2.577db758.chunk.js.map": "/buyer/static/js/2.577db758.chunk.js.map",
-    "static/js/3.2cc18159.chunk.js": "/buyer/static/js/3.2cc18159.chunk.js",
-    "static/js/3.2cc18159.chunk.js.map": "/buyer/static/js/3.2cc18159.chunk.js.map",
+    "static/js/2.73307c0d.chunk.js": "/buyer/static/js/2.73307c0d.chunk.js",
+    "static/js/2.73307c0d.chunk.js.map": "/buyer/static/js/2.73307c0d.chunk.js.map",
+    "static/js/3.71fb52dd.chunk.js": "/buyer/static/js/3.71fb52dd.chunk.js",
+    "static/js/3.71fb52dd.chunk.js.map": "/buyer/static/js/3.71fb52dd.chunk.js.map",
     "index.html": "/buyer/index.html",
     "static/css/2.b5f9dda7.chunk.css.map": "/buyer/static/css/2.b5f9dda7.chunk.css.map",
     "static/css/main.e2b2217b.chunk.css.map": "/buyer/static/css/main.e2b2217b.chunk.css.map",
-    "static/js/2.577db758.chunk.js.LICENSE.txt": "/buyer/static/js/2.577db758.chunk.js.LICENSE.txt",
+    "static/js/2.73307c0d.chunk.js.LICENSE.txt": "/buyer/static/js/2.73307c0d.chunk.js.LICENSE.txt",
     "static/media/deil-logo.d96e8767.png": "/buyer/static/media/deil-logo.d96e8767.png",
     "static/media/saltoris.85ee1f2d.png": "/buyer/static/media/saltoris.85ee1f2d.png",
     "static/media/main.scss": "/buyer/static/media/table-column.b3164c2e.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.e06afe20.js",
+    "static/js/runtime-main.848eb2bc.js",
     "static/css/2.b5f9dda7.chunk.css",
-    "static/js/2.577db758.chunk.js",
+    "static/js/2.73307c0d.chunk.js",
     "static/css/main.e2b2217b.chunk.css",
-    "static/js/main.35bd7f17.chunk.js"
+    "static/js/main.e885f0a6.chunk.js"
   ]
 }
